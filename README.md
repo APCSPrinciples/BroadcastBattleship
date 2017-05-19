@@ -1,5 +1,5 @@
 # Broadcast Battleship
-Today we will be playing a game that simulates some issues that arise when constructing the internet. We will play a crazy game of Battleship where instead of playing against one other person you will play multiple games against multiple other people simultaneously – We call this “Broadcast Battleship”
+In this lab we will be playing a game that simulates some issues that arise when constructing the internet. We will play a crazy game of Battleship where instead of playing against one other person you will play multiple games against multiple other people simultaneously – We call this “Broadcast Battleship”
 
 In our version today, you will play in groups of 3 (4 is OK) with _no talking_. To make it easier to track, we’ve also simplified the playing board to just a 3x3 grid (instead of the classic 10x10). We’ll start by just playing with paper and pencil.
 
